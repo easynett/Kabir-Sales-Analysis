@@ -33,13 +33,13 @@ The company should NOT hire more staff in 2013. Instead, it should consider redu
 
 ## Visualizations
 ### Analysis of Sales Reps performance across years
-![Performance across years](./images/001.png)
+![Performance across years](https://raw.githubusercontent.com/easynett/Kabir-Sales-Analysis/main/images/001.PNG)
 
 This table highlights transaction counts for each sales reps across years.
 
 
 ### Analysis of revenue generated across years
-![Revenue across years](./images/002.png)
+![Revenue across years](https://raw.githubusercontent.com/easynett/Kabir-Sales-Analysis/main/images/002.PNG)
 
 This table highlights top performing sales reps and total revenue generated across years.
 
